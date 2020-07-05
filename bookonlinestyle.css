@@ -10,6 +10,7 @@
 }
 
 input[type=text] {
+	text-decoration:none;
 	background-color:ivory;
   	width:120%;
  	 padding: 10px 20px;
