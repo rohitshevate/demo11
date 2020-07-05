@@ -43,7 +43,7 @@ input[type=text] {
 #title h2{
 	border: 1px solid indigo;
 	position:absolute;
-	top:545px;
+	top:550px;
 	left:755px;
 	background-color: indigo;
 	color:white;
@@ -54,7 +54,7 @@ input[type=text] {
 	text-decoration:none;
 	border: 1px solid black;
 	position:absolute;
-	top:565px;
+	top:570px;
 	left:655px;
 	color:black;
 	padding:6px 15px 6px 15px;
